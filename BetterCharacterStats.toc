@@ -3,7 +3,7 @@
 ## Notes:一款简单的角色三维属性的统计插件
 ## Title-zhCN:|cFF00FF00角色面板属性统计
 ## Notes-zhCN:一款简单的角色三维属性的统计插件
-## Author: moh, 汉化by Qcat, 1.12 modify by 狗血编剧男
+## Author: moh, 汉化by Qcat, Wind, Sunelegy
 ## Version: 1.11
 ## SavedVariablesPerCharacter: BCSConfig
 BetterCharacterStats.xml
